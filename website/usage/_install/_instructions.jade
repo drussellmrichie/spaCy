@@ -217,8 +217,9 @@ p
     |  #[code --model] are optional and enable additional tests.
 
 +code(false, "bash").
-    # make sure you are using recent pytest version
+    # make sure you are using recent pytest and mock versions
     python -m pip install -U pytest
+    python -m pip install -U mock
 
     python -m pytest &lt;spacy-directory&gt;                 # basic tests
     python -m pytest &lt;spacy-directory&gt; --slow          # basic and slow tests
