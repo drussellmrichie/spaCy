@@ -98,9 +98,9 @@ mark both statements:
 
 | Field                          | Entry                |
 |------------------------------- | -------------------- |
-| Name                           |                      |
-| Company name (if applicable)   |                      |
-| Title or role (if applicable)  |                      |
-| Date                           |                      |
-| GitHub username                |                      |
+| Name                           | Russell Richie       |
+| Company name (if applicable)   | UPenn                |
+| Title or role (if applicable)  | Postdoc              |
+| Date                           | Dec 29, 2017         |
+| GitHub username                | drussellmrichie      |
 | Website (optional)             |                      |
